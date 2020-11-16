@@ -11,6 +11,7 @@ Il est nécéssaire que certaines technologies soient installées sur votre mach
 
 - Node.JS
 - Vue CLI
+- MySQL
 
 ### Installation
 

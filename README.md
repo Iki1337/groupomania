@@ -30,5 +30,11 @@ Ensuite :
 - Lancez le backend avec la commande ``node server``.
 - Lancez le frontend avec la commande ``npm run serve``.
 
+## Précisions
+
+Les identifiants de l'admin sont :
+- email : spiderman@gmail.com
+- mdp : 1234
+
 ## Auteurs
 - [@Iki1337](https://github.com/Iki1337)

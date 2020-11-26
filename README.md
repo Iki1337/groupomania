@@ -34,7 +34,7 @@ Ensuite :
 
 Les identifiants de l'admin sont :
 - email : spiderman@gmail.com
-- mdp : 1234
+- mdp : Admin1234
 
 ## Auteurs
 - [@Iki1337](https://github.com/Iki1337)

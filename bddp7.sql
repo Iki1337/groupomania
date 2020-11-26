@@ -143,7 +143,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'Man','Spider','spiderman@gmail.com',0,'2020-11-11 17:52:29','$2b$10$ZHtnz53Q37zuH.pMRgtM8OrdepSYeUOR6d/Ztwu1Tk.28o1.h4TUC','2020-09-25 13:51:24',0,'http://localhost:3000/images/spiderman.png1601035281103.png','http://localhost:3000/images/newyork.PNG1601035296623.png');
+INSERT INTO `users` VALUES (1,'Man','Spider','spiderman@gmail.com',0,'2020-11-11 17:52:29','$2b$10$mbPjw8r0Vtwl.j9Un3yHBu9IWIYnccHf3CfqPk0czetGMS2VKQUO2','2020-09-25 13:51:24',0,'http://localhost:3000/images/spiderman.png1601035281103.png','http://localhost:3000/images/newyork.PNG1601035296623.png');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
